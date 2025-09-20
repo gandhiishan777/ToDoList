@@ -127,7 +127,6 @@ function App() {
         </main>
 
         <footer className="app-footer">
-          <p>Built with React ⚛️</p>
         </footer>
       </div>
     </div>
